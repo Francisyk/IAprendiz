@@ -253,4 +253,9 @@ body {
  .assinatura {
     background-size: contain;
  }
+
+ .principal {
+  background-size: contain;
+ }
+    
 }
