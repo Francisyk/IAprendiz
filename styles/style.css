@@ -249,6 +249,11 @@ body {
   .rodape__texto {
     font-size: 12px;
   }
+
+ .assinatura {
+    background-size: contain;
+ }
     
 }
+
 
