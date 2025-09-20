@@ -8,7 +8,7 @@
 
 ## Tecnologias Utilizadas:
 ### Este projeto foi desenvolvido utilizando as seguintes tecnologias web:
-#### **HTML**: A base da nossa plataforma, garantindo uma navegação intuitiva e acessível.
+#### **HTML**: A base da plataforma, garantindo uma navegação intuitiva e acessível.
 #### **CSS**: O toque de design que torna o IAprendiz visualmente atraente e profissional, com um layout moderno focado em canais de streaming.
 ![tumblr_7c6b28228d3d32f9b2b3c5b858537aca_abecfa1c_540](https://github.com/user-attachments/assets/269bc1b5-7d59-484d-890f-8d308f091e61)
 
